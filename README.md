@@ -1,3 +1,14 @@
+it's simple program which shows injecting byte code runtime
+For example, **F: unsigned char -> unsigned char, F(x) = 5 * x**
+\#\#\#
+
+Press:
+	**quit** - for stop program
+	**exec** - for execute program	
+	**mod** - modify ~five~ in function
+
+
+
 #  Кусочек JIT компилятора
 
 Цель - получить знакомство с системными вызывами, используемыми для получения/освобождения
